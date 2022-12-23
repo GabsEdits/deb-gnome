@@ -2,7 +2,7 @@
 Here you can find my Debian installation and some scripts that well remove all the trash apps that come preinstalled.
 ### Credits
 Theme: <a href="https://github.com/dgsasha/qualia-gtk-theme" target="_blank" rel="noopener">Qualia</a>
-<br> Cursor:
+<br> Icon: <a href="https://github.com/ubuntu/yaru" target="_blank" rel="noopener">Yaru</a>
 ## Get the iso from:
 * ISO page: <a href="https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/weekly-builds/amd64/iso-cd/" target="_blank" rel="noopener">./cd-including-firmware/weekly-builds/amd64/iso-cd/</a>
 * ISO itself: <a href="https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/weekly-builds/amd64/iso-cd/firmware-testing-amd64-netinst.iso" target="_blank" rel="noopener">**/weekly-builds/amd64/.iso**</a>
