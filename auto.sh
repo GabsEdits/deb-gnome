@@ -20,6 +20,9 @@ apt upgrade -y
 # Install nala
 apt install nala -y
 
+# Debloat
+nala remove aisleriot five-or-more four-in-a-row gnome-klotski gnome-mahjongg gnome-mines gnome-nibbles quadrapassel gnome-chess lghtsoff  gnome-robots gnome-sudoku swell-foop gnome-tetravex
+
 # Install flatpak
 nala install flatpak gnome-software-plugin-flatpak -y
 
@@ -33,7 +36,7 @@ flatpak install flathub com.bitwarden.desktop
 flatpak install flathub com.github.Eloston.UngoogledChromium
 
 # Install printer driver
-nala install foo2xqx
+nala install printer-driver-foo2zjs
 
 # Install Spotify
 curl -sS https://download.spotify.com/debian/pubkey_5E3C45D7B312C643.gpg | sudo apt-key add - 
@@ -56,5 +59,3 @@ nala install sassc git ninja-build meson
 git clone https://github.com/dgsasha/qualia-gtk-theme -b main && cd qualia-gtk-theme
 ./install.py
 ./install.py -a olive
-
-# More stuff added very soon
