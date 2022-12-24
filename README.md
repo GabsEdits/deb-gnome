@@ -10,5 +10,8 @@ Theme: <a href="https://github.com/dgsasha/qualia-gtk-theme" target="_blank" rel
 Linux: <a href="https://github.com/balena-io/etcher/releases/download/v1.10.2/balenaEtcher-1.10.2-x64.AppImage?d_id=3a098830-5af4-4dff-bede-95937ba30729&s_id=1671802525579" target="_blank" rel="noopener">**Download**</a> 
 <br> Windows: <a href="https://github.com/balena-io/etcher/releases/download/v1.10.2/balenaEtcher-Portable-1.10.2.exe?d_id=3a098830-5af4-4dff-bede-95937ba30729&s_id=1671802525579" target="_blank" rel="noopener">Download</a>
 <br> Mac: <a href="https://github.com/balena-io/etcher/releases/download/v1.10.2/balenaEtcher-1.10.2.dmg?d_id=3a098830-5af4-4dff-bede-95937ba30729&s_id=1671808440901" target="_blank" rel="noopener">Download</a>
-##### I made everything automated so just run ./auto.sh
+##### I made combinded every script in to only one script, so just run this command:
+```
+ sudo sh ./auto.sh
+ ```
 -------------
