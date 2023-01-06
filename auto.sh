@@ -21,7 +21,7 @@ apt upgrade -y
 apt install nala -y
 
 # Debloat
-nala remove aisleriot five-or-more four-in-a-row gnome-klotski gnome-mahjongg gnome-mines gnome-nibbles quadrapassel gnome-chess lghtsoff  gnome-robots gnome-sudoku swell-foop gnome-tetravex
+nala remove aisleriot five-or-more four-in-a-row gnome-klotski gnome-mahjongg gnome-mines gnome-nibbles quadrapassel gnome-chess lghtsoff gnome-robots gnome-sudoku swell-foop gnome-tetravex
 
 # Install flatpak
 nala install flatpak gnome-software-plugin-flatpak -y
