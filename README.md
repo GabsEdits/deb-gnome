@@ -1,7 +1,8 @@
 <div align="center">
 
-# My Debian + GNOME install 🐠
+# My Debian GNOME install 🐠
  <sup2>Here you can find my Debian installation and some scripts that well remove all the trash apps that come preinstalled. <sup2>
+ </div>
 ### Credits
 Theme: <a href="https://github.com/dgsasha/qualia-gtk-theme" target="_blank" rel="noopener">**Qualia**</a>
 <br> Icon: <a href="https://github.com/ubuntu/yaru" target="_blank" rel="noopener">**Yaru**</a>
