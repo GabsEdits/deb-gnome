@@ -30,11 +30,7 @@ flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flat
 
 # Installing flatpaks
 flatpak install flathub com.viber.Viber
-flatpak install flathub org.telegram.desktop
 flatpak install flathub com.discordapp.Discord
-flatpak install flathub com.bitwarden.desktop
-flatpak install flathub com.github.Eloston.UngoogledChromium
-
 # Install printer driver
 nala install printer-driver-foo2zjs
 
