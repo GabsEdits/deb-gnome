@@ -5,15 +5,15 @@
  </div>
  
 ### Credits
-Theme: <a href="https://github.com/dgsasha/qualia-gtk-theme" target="_blank" rel="noopener">**Qualia**</a>
-<br> Icon: <a href="https://github.com/ubuntu/yaru" target="_blank" rel="noopener">**Yaru**</a>
+* Theme: [**Qualia**](https://github.com/dgsasha/qualia-gtk-theme)
+* Icon: [**Yaru**](https://github.com/ubuntu/yaru)
 ## Get the iso from:
-* ISO page: <a href="https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/weekly-builds/amd64/iso-cd/" target="_blank" rel="noopener">./cd-including-firmware/weekly-builds/amd64/iso-cd/</a>
-* ISO itself: <a href="https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/weekly-builds/amd64/iso-cd/firmware-testing-amd64-netinst.iso" target="_blank" rel="noopener">**/weekly-builds/amd64/.iso**</a>
+* ISO page: [./cd-including-firmware/weekly-builds/amd64/iso-cd/](https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/weekly-builds/amd64/iso-cd/)
+* ISO itself: [**/weekly-builds/amd64/.iso**](https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/weekly-builds/amd64/iso-cd/firmware-testing-amd64-netinst.iso)
 ## BalenaEtcher 
-Linux: <a href="https://github.com/balena-io/etcher/releases/download/v1.10.2/balenaEtcher-1.10.2-x64.AppImage?d_id=3a098830-5af4-4dff-bede-95937ba30729&s_id=1671802525579" target="_blank" rel="noopener">**Download**</a> 
-<br> Windows: <a href="https://github.com/balena-io/etcher/releases/download/v1.10.2/balenaEtcher-Portable-1.10.2.exe?d_id=3a098830-5af4-4dff-bede-95937ba30729&s_id=1671802525579" target="_blank" rel="noopener">Download</a>
-<br> Mac: <a href="https://github.com/balena-io/etcher/releases/download/v1.10.2/balenaEtcher-1.10.2.dmg?d_id=3a098830-5af4-4dff-bede-95937ba30729&s_id=1671808440901" target="_blank" rel="noopener">Download</a>
+* Linux: [**Download**](https://github.com/balena-io/etcher/releases/download/v1.18.3/balenaEtcher-1.18.3-x64.AppImage)
+* Windows: [Download](https://github.com/balena-io/etcher/releases/download/v1.18.3/balenaEtcher-Setup-1.18.3.exe)
+* Mac: [Download](https://github.com/balena-io/etcher/releases/download/v1.18.3/balenaEtcher-1.18.3.dmg)
 ## Install
 ```
 git clone https://github.com/GabsEdits/deb-gnome/
