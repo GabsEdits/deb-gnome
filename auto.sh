@@ -51,6 +51,3 @@ sudo apt-get install code
 
 # Install Theme
 nala install sassc git ninja-build meson
-
-git clone https://github.com/dgsasha/qualia-gtk-theme -b main && cd qualia-gtk-theme
-./install.py
