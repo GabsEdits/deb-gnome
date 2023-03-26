@@ -8,15 +8,12 @@
 * ISO page: [./cd-including-firmware/weekly-builds/amd64/iso-cd/](https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/weekly-builds/amd64/iso-cd/)
 * ISO itself: [**/weekly-builds/amd64/.iso**](https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/weekly-builds/amd64/iso-cd/firmware-testing-amd64-netinst.iso)
 ## BalenaEtcher
-* Linux: [**Download**](https://github.com/balena-io/etcher/releases/download/v1.18.3/balenaEtcher-1.18.3-x64.AppImage)
-* Windows: [Download](https://github.com/balena-io/etcher/releases/download/v1.18.3/balenaEtcher-Setup-1.18.3.exe)
-* Mac: [Download](https://github.com/balena-io/etcher/releases/download/v1.18.3/balenaEtcher-1.18.3.dmg)
+* Linux: [**Download**](https://github.com/balena-io/etcher/releases/download/v1.18.4/balenaEtcher-1.18.4-x64.AppImage)
+* Windows: [Download](https://github.com/balena-io/etcher/releases/download/v1.18.4/balenaEtcher-Setup-1.18.4.exe)
+* Mac: [Download](https://github.com/balena-io/etcher/releases/download/v1.18.4/balenaEtcher-1.18.4.dmg)
 ## Install
 ```
-git clone https://github.com/GabsEdits/deb-gnome/
-```
-```
-cd deb-gnome
+git clone https://github.com/GabsEdits/deb-gnome/ && cd deb-gnome
 ```
 ```
 sudo sh ./auto.sh
